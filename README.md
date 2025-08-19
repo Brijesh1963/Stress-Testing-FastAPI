@@ -15,7 +15,7 @@ A FastAPI-based machine learning web application that predicts California housin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kingabzpro/Stress-Testing-FastAPI.git
+git clone https://github.com/Brijesh1963/Stress-Testing-FastAPI.git
 cd Stress-Testing-FastAPI
 ```
 
